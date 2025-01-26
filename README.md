@@ -15,7 +15,8 @@ Este proyecto es una API construida con FastAPI para la generación de CVs y aut
    git clone <repo-url>
    cd cv-generator
    ```
-
+   
+## En caso de que no se use Docker, si usas Docker ignorar este paso.
 2. Crea un archivo `.env` basado en el archivo de ejemplo:
 
    ```bash
